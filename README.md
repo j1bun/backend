@@ -1,2 +1,6 @@
-# backend
-Backend for `j1bun` apps
+# Backend for `j1bun` apps
+
+#### Blueprints
+- [ ] Core
+- [ ] Auth
+- [ ] Identity
